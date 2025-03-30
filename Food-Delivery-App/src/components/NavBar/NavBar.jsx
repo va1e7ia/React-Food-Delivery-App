@@ -3,7 +3,7 @@ import "./NavBar.css";
 import { assets } from "../../assets/assets";
 
 const NavBar = () => {
-  const [menu, setMenu] = useState("home");
+  const [menu, setMenu] = useState("menu");
 
   return (
     <div className="navbar">
