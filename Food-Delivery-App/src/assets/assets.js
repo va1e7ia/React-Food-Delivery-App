@@ -125,7 +125,7 @@ export const food_list = [
     price: 12,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Salad",
+    category: "Салаты",
   },
   {
     _id: "2",
@@ -134,7 +134,7 @@ export const food_list = [
     price: 18,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Salad",
+    category: "Салаты",
   },
   {
     _id: "3",
@@ -143,7 +143,7 @@ export const food_list = [
     price: 16,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Salad",
+    category: "Салаты",
   },
   {
     _id: "4",
@@ -152,7 +152,7 @@ export const food_list = [
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Salad",
+    category: "Салаты",
   },
   {
     _id: "5",
@@ -161,7 +161,7 @@ export const food_list = [
     price: 14,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Rolls",
+    category: "Шаурма",
   },
   {
     _id: "6",
@@ -170,7 +170,7 @@ export const food_list = [
     price: 12,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Rolls",
+    category: "Шаурма",
   },
   {
     _id: "7",
@@ -179,7 +179,7 @@ export const food_list = [
     price: 20,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Rolls",
+    category: "Шаурма",
   },
   {
     _id: "8",
@@ -188,7 +188,7 @@ export const food_list = [
     price: 15,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Rolls",
+    category: "Шаурма",
   },
   {
     _id: "9",
@@ -197,7 +197,7 @@ export const food_list = [
     price: 14,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Deserts",
+    category: "Десерты",
   },
   {
     _id: "10",
@@ -206,7 +206,7 @@ export const food_list = [
     price: 22,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Deserts",
+    category: "Десерты",
   },
   {
     _id: "11",
@@ -215,7 +215,7 @@ export const food_list = [
     price: 10,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Deserts",
+    category: "Десерты",
   },
   {
     _id: "12",
@@ -224,7 +224,7 @@ export const food_list = [
     price: 12,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Deserts",
+    category: "Десерты",
   },
   {
     _id: "13",
@@ -233,7 +233,7 @@ export const food_list = [
     price: 12,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Sandwich",
+    category: "Сэндвичи",
   },
   {
     _id: "14",
@@ -242,7 +242,7 @@ export const food_list = [
     price: 18,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Sandwich",
+    category: "Сэндвичи",
   },
   {
     _id: "15",
@@ -251,7 +251,7 @@ export const food_list = [
     price: 16,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Sandwich",
+    category: "Сэндвичи",
   },
   {
     _id: "16",
@@ -260,7 +260,7 @@ export const food_list = [
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Sandwich",
+    category: "Сэндвичи",
   },
   {
     _id: "17",
@@ -269,7 +269,7 @@ export const food_list = [
     price: 14,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Cake",
+    category: "Торты",
   },
   {
     _id: "18",
@@ -278,7 +278,7 @@ export const food_list = [
     price: 12,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Cake",
+    category: "Торты",
   },
   {
     _id: "19",
@@ -287,7 +287,7 @@ export const food_list = [
     price: 20,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Cake",
+    category: "Торты",
   },
   {
     _id: "20",
@@ -296,7 +296,7 @@ export const food_list = [
     price: 15,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Cake",
+    category: "Торты",
   },
   {
     _id: "21",
@@ -305,7 +305,7 @@ export const food_list = [
     price: 14,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Pure Veg",
+    category: "Вегетарианское",
   },
   {
     _id: "22",
@@ -314,7 +314,7 @@ export const food_list = [
     price: 22,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Pure Veg",
+    category: "Вегетарианское",
   },
   {
     _id: "23",
@@ -323,7 +323,7 @@ export const food_list = [
     price: 10,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Pure Veg",
+    category: "Вегетарианское",
   },
   {
     _id: "24",
@@ -332,7 +332,7 @@ export const food_list = [
     price: 12,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Pure Veg",
+    category: "Вегетарианское",
   },
   {
     _id: "25",
@@ -341,7 +341,7 @@ export const food_list = [
     price: 12,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Pasta",
+    category: "Паста",
   },
   {
     _id: "26",
@@ -350,7 +350,7 @@ export const food_list = [
     price: 18,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Pasta",
+    category: "Паста",
   },
   {
     _id: "27",
@@ -359,7 +359,7 @@ export const food_list = [
     price: 16,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Pasta",
+    category: "Паста",
   },
   {
     _id: "28",
@@ -368,7 +368,7 @@ export const food_list = [
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Pasta",
+    category: "Паста",
   },
   {
     _id: "29",
@@ -377,7 +377,7 @@ export const food_list = [
     price: 14,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Noodles",
+    category: "Лапша",
   },
   {
     _id: "30",
@@ -386,7 +386,7 @@ export const food_list = [
     price: 12,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Noodles",
+    category: "Лапша",
   },
   {
     _id: "31",
@@ -395,7 +395,7 @@ export const food_list = [
     price: 20,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Noodles",
+    category: "Лапша",
   },
   {
     _id: "32",
@@ -404,6 +404,6 @@ export const food_list = [
     price: 15,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Noodles",
+    category: "Лапша",
   },
 ];
