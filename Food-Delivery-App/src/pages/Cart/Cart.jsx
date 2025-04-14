@@ -37,6 +37,37 @@ const Cart = () => {
           }
         })}
       </div>
+      <div className="cart-bottom">
+        <div className="cart-total">
+          <h2>Общая сумма корзины</h2>
+          <div>
+            <div className="cart-total-details">
+              <p>Промежуточный итог</p>
+              <p>{0}</p>
+            </div>
+            <hr />
+            <div className="cart-total-details">
+              <p>Плата за доставку</p>
+              <p>{2}</p>
+            </div>
+            <hr />
+            <div className="cart-total-details">
+              <b>Итог</b>
+              <b>{0}</b>
+            </div>
+          </div>
+          <button>Перейти к оформлению заказа</button>
+        </div>
+        <div className="cart-promocode">
+          <div>
+            <p>Если у вас есть промокод, введите его здесь</p>
+            <div className="cart-promocode-input">
+              <input type="text" placeholder="промокод" />
+              <button>Подтвердить</button>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
