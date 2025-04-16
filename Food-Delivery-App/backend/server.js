@@ -1,6 +1,6 @@
 import express from "express";
 import cors from "cors";
-import { connect } from "mongoose";
+
 import { connectDB } from "./config/db.js";
 
 //app config
@@ -12,6 +12,7 @@ app.use(express.json());
 app.use(cors());
 
 // db connection
+console.log("Connecting to DB...");
 connectDB();
 
 app.get("/", (req, res) => {
